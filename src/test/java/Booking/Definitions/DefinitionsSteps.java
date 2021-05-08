@@ -33,6 +33,7 @@ public class DefinitionsSteps {
 	//se hace el llamado al metodo a utilizar
 	this.amazonRegistroPagina.RegitroAmazon();		
 	}
+	git status
 	
 	@Then("^diligenciar campo nombre(.*)$")
 	public void diligenciarName() {
